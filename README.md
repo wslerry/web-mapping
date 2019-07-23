@@ -1,6 +1,7 @@
 # web-mapping
 
 [![Gem Version](https://badge.fury.io/rb/web-mapping.svg)](https://badge.fury.io/rb/web-mapping)
+[![GitHub version](https://badge.fury.io/gh/wslerry%2Fweb-mapping.svg)](https://badge.fury.io/gh/wslerry%2Fweb-mapping)
 
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
 
