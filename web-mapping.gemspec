@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "web-mapping"
-  spec.version       = "0.1.4"
+  spec.version       = "0.1.5"
   spec.authors       = ["Lerry William"]
   spec.email         = ["wslerry2@hotmail.com"]
 
@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
-    f.match(%r{^(assets|data|_(includes|layouts|sass)/|(LICENSE|README|CHANGELOG|404)((\.(html|txt|md|markdown)|$)))}i)
+    f.match(%r{^(assets|data|_(includes|layouts|sass)/|(index|LICENSE|README|CHANGELOG|404)((\.(html|txt|md|markdown)|$)))}i)
   end
 
   spec.add_runtime_dependency "jekyll", "~> 3.8"
