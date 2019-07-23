@@ -10,7 +10,9 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/wslerry/web-mapping"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|_config|LICENSE|README|index|data)!i) }
+  spec.files         = `git ls-files -z`.split("\x0").select do |f|
+    f.match(%r{^(assets|data|_(includes|layouts|sass)/|(LICENSE|README|CHANGELOG|404)((\.(html|txt|md|markdown)|$)))}i)
+  end
 
   spec.add_runtime_dependency "jekyll", "~> 3.8"
 

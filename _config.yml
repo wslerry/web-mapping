@@ -9,7 +9,7 @@ port: 4001
 google_analytics: UA-000000000-0
 markdown: kramdown
 # remote_theme: "wslerry/web-mapping"
-theme: web-mapping
+# theme: web-mapping
 
 plugins:
   - jekyll-feed
