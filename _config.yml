@@ -1,5 +1,5 @@
 title: Web Mapping in Jekyll # Your website title
-author: Hello World. # change this to your name
+author: Hello World # change this to your name
 email: helloworld@mail.com # chnage this to your email
 description: >- # this means to ignore newlines until "baseurl:"
   A leaflet map in Jekyll
