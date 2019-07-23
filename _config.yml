@@ -7,14 +7,9 @@ baseurl: ""
 url: ""
 port: 4001
 google_analytics: UA-000000000-0
-highlighter: rouge
-
+markdown: kramdown
 # remote_theme: "wslerry/web-mapping"
 theme: web-mapping
-
-sass:
-  sass_dir: _sass
-  style: :compressed
 
 plugins:
   - jekyll-feed
