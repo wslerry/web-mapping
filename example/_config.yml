@@ -26,7 +26,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: web-mapping
+# theme: web-mapping
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
