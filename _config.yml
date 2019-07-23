@@ -14,7 +14,8 @@ theme: web-mapping
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  # - github-pages
+  - jekyll-include-cache
+  - github-pages
 
 exclude : [
   ".gitignore",

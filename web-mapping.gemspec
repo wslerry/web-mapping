@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "web-mapping"
-  spec.version       = "0.1.6"
+  spec.version       = "0.1.7"
   spec.authors       = ["Lerry William"]
   spec.email         = ["wslerry2@hotmail.com"]
 
