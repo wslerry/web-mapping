@@ -10,7 +10,7 @@ google_analytics: UA-000000000-0
 highlighter: rouge
 
 # remote_theme: "wslerry/web-mapping"
-# theme: web-mapping
+theme: web-mapping
 
 sass:
   sass_dir: _sass
