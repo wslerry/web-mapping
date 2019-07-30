@@ -4,7 +4,7 @@ email: helloworld@mail.com # chnage this to your email
 description: >- # this means to ignore newlines until "baseurl:"
   A leaflet map in Jekyll
 baseurl: ""
-url: ""
+url: "https://lerryws.xyz/web-mapping/"
 port: 4002
 google_analytics: UA-000000000-0
 markdown: kramdown
