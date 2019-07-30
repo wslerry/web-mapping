@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A leaflet map in Jekyll
 baseurl: ""
 url: "https://lerryws.xyz/web-mapping/"
-port: 4002
+port: 
 google_analytics: UA-000000000-0
 markdown: kramdown
 # remote_theme: "wslerry/web-mapping"
