@@ -2,7 +2,5 @@
 .bundle
 .sass-cache
 Gemfile.lock
-_site/*
+site
 _site
-_site/404.html
-_site/feed.xml
